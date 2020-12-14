@@ -1,3 +1,4 @@
+#nohup python3 ciclo.py &
 import time
 
 numero = 0
